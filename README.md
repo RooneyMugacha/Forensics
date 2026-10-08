@@ -18,7 +18,6 @@ Only list tools you have actually used. Update as you learn.
 
 ## Highlighted work
 
-Replace these with your 3-5 best writeups.
 
 1. _(your best writeup)_ - one-line description
 2. _(second)_ - one-line description
