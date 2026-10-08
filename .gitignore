@@ -1,0 +1,21 @@
+# Evidence and large files - never commit these
+*.E01
+*.e01
+*.dd
+*.raw
+*.img
+*.vmdk
+*.vdi
+*.dmp
+*.mem
+*.pcap
+*.pcapng
+*.zip
+*.7z
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+__pycache__/
+*.pyc
